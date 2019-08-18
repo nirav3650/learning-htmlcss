@@ -1,0 +1,19 @@
+h4 {
+    color: red;
+    background-color: skyblue;
+}
+
+li {
+    color:  rgb(255, 97, 0)
+}
+
+div>p {
+    color: yellow;
+}
+div {
+    background-color: sienna;
+    
+    border: 12px;
+    border-color: blue;
+    border-style: dotted;
+}
