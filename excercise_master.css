@@ -1,0 +1,33 @@
+#top {
+	text-align: center;
+	padding: auto;
+	margin: auto;
+}
+
+td {
+	padding: 20px;
+	width: 100px;
+	height: 200px;
+	margin: 20px;
+	background-color:skyblue;
+	text-align: center;
+	border: 6px solid white;
+}
+table {
+	margin: auto;
+}
+#one{
+background-color: #247BA0;
+}
+#second {
+	background-color: #70c1b3;
+}
+#third {
+	background-color: #B2DDBF;
+}
+#fourth {
+	background-color:#F3FFBD;
+}
+#fifth {
+	background-color:#FF1654;
+}
